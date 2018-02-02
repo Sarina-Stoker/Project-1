@@ -130,7 +130,7 @@ fieldset {
 }
 
 html{
-  background-color:palevioletred;
+  background-color:orangered;
   font:Sans-serif;
   Font-size:1em; /*16px*/
   Line-height:1.25em; /*20 divided by 16*/
@@ -181,7 +181,7 @@ input{
 }
 
 section{
-  background-color:Navy;
+  background-color:midnightblue;
   color:white;
   padding-top:1.5em;
   padding-bottom:1.5em;
