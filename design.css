@@ -130,7 +130,7 @@ fieldset {
 }
 
 html{
-  background-color:Coral;
+  background-color:palevioletred;
   font:Sans-serif;
   Font-size:1em; /*16px*/
   Line-height:1.25em; /*20 divided by 16*/
@@ -160,7 +160,7 @@ article{
   margin-right:auto;
   margin-top:0;
   margin-bottom:0;
-  background-color:Navy;
+  background-color:midnightblue;
   color:white;
 }
 
