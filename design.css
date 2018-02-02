@@ -130,6 +130,7 @@ fieldset {
 }
 
 html{
+  background-color:Coral;
   font:Sans-serif;
   Font-size:1em; /*16px*/
   Line-height:1.25em; /*20 divided by 16*/
@@ -175,4 +176,12 @@ input{
 .button1{
   background-color:green;
   color:white;
+}
+
+section{
+  background-color:Navy;
+  color:white;
+  padding-top:1.5em;
+  padding-bottom:1.5em;
+  
 }
