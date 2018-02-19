@@ -25,7 +25,7 @@ $(document).ready(function () {
 
 
 $('#Contact').on('submit',
-  function() {
+  function(e) {
     console.log('The form was submitted.');
      e.preventDefault();
     
