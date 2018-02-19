@@ -144,6 +144,9 @@ h1,header{
   padding-bottom:0.3em;
 }
 
+figure{
+  
+}
 h2{
   font-size:1.56em; /*25 divided by 16*/
   Line-height: 1.2em; /*30 divided by 25 */
@@ -196,7 +199,7 @@ section{
   background-color:#1a1a1a;
   color:white;
   padding-top:0.7em;
-  padding-bottom:7em;
+  padding-bottom:5em;
   
   
 }
