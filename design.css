@@ -135,8 +135,8 @@ html{
   Line-height:1.25em; /*20 divided by 16*/
 }
 
-h1{
-  font:Cooper-black;
+h1,header{
+  font:Courier;
   font-size: 1.875em; /*30 divided by 16*/
   Line-height:0.93em; /*28 divided by 30*/
   text-align:center;
