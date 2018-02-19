@@ -1,30 +1,5 @@
-/*$(document).ready(function () {
-       
-        var dobValue=document.getElementById("dob").value;
-        var dob= new Date(dobValue);
-        
-        var month=dob.getMonth();
-        var day=dob.getYear();
-        var year=dob.getYear();
-        
-        var today = new Date();
 
-        var age = today.getYear() - year;
-        if(today.getMonth() < month){
-          age--;     
-        }
-        else if(today.getMonth()==month && today.getDay()/1<day){
-          age--;     
-        }
-        if (age < 18) {
-          alert("You have to be 18 or older to sign up. Sorry!");
-        } 
-     
-  }); */
-    
-
-
-$('#Contact').on('submit',
+   $('#contact').on('submit',
   function(e) {
     var dobValue=document.getElementById("dob").value;
     var dob= new Date(dobValue);
