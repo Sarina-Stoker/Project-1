@@ -150,6 +150,7 @@ h2{
   Line-height: 1.2em; /*30 divided by 25 */
   margin-left:auto;
   margin-right:auto;
+  border-bottom-style:groove;
 }
 
 article{
