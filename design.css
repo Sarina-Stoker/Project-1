@@ -145,7 +145,7 @@ header,h1{
   padding-bottom:0.3em;
 }
 
-section.h2{
+notes.h2{
   font-size:1.56em; /*25 divided by 16*/
   Line-height: 1.2em; /*30 divided by 25 */
   margin-left:auto;
