@@ -166,7 +166,7 @@ article{
   color:white;
   border-style:inset;
   border-width:thin;
-  border-radius:10px;
+  border-radius:15px;
 }
 
 label{
@@ -178,6 +178,10 @@ input{
   line-height: 1.43em; /*23 divided by 16*/
   padding:0; 
   margin: 0;
+}
+
+ol{
+  list-style-type:none;
 }
 
 .button1{
