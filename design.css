@@ -164,8 +164,9 @@ article{
   margin-bottom:5em;
   background-color:midnightblue;
   color:white;
-  border-style:groove;
+  border-style:inset;
   border-width:thin;
+  border-radius:5px;
 }
 
 label{
