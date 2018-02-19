@@ -131,8 +131,8 @@ fieldset {
 
 html{
   background-color:#ff3333;
-  Font-size:1em; /*16px*/
-  Line-height:1.25em; /*20 divided by 16*/
+  Font-size:1.125em; /*18 by 16px*/
+  Line-height:1.11em; /*20 divided by 18*/
 }
 
 h1,header{
@@ -166,8 +166,8 @@ p{
 
 article{
   text-align:center;
-  padding-top:1em;
-  padding-bottom:1em;
+  padding-top:1.1em;
+  padding-bottom:1.1em;
   padding-left:1.22em
   padding-right: 1.22em;
   margin-left:20em;
@@ -186,8 +186,8 @@ label{
 }
 
 input{
-  font-size:1em;
-  line-height: 1.43em; /*23 divided by 16*/
+  font-size:1.125em;
+  line-height: 1.278em; /*23 divided by 18*/
   padding:0; 
   margin: 0;
 }
