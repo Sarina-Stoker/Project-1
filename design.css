@@ -164,6 +164,8 @@ article{
   margin-bottom:5em;
   background-color:midnightblue;
   color:white;
+  border-style:groove;
+  border-width:thin;
 }
 
 label{
@@ -185,7 +187,7 @@ input{
 section{
   background-color:slateblue;
   color:black;
-  padding-top:10em;
+  padding-top:5em;
   padding-bottom:1.5em;
   
   
