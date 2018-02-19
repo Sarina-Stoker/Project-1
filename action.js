@@ -48,6 +48,7 @@ $('#Contact').on('submit',
     }
     else{
     console.log('The form was submitted.');
+    alert("Thank you! Your form was submitted.");
      e.preventDefault();
     }
     
