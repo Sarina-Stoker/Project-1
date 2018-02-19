@@ -141,6 +141,8 @@ header,h1{
   font-size: 1.875em; /*30 divided by 16*/
   Line-height:0.93em; /*28 divided by 30*/
   text-align:center;
+  padding-top:0.3em;
+  padding-bottom:0.3em;
 }
 
 h2{
@@ -154,12 +156,12 @@ article{
   text-align:center;
   padding-top:1em;
   padding-bottom:1em;
-  padding-left:0.75em
-  padding-right: 0.75em;
+  padding-left:1.22em
+  padding-right: 1.22em;
   margin-left:20em;
-  margin-right:20em
+  margin-right:20em;
   margin-top:0;
-  margin-bottom:0;
+  margin-bottom:5em;
   background-color:midnightblue;
   color:white;
 }
