@@ -13,7 +13,7 @@ $(document).ready(function () {
         if(today.getMonth() < month){
           age--;     
         }
-        else(today.getMonth()==month && today.getDay()/1<day){
+        else if(today.getMonth()==month && today.getDay()/1<day){
           age--;     
         }
        /* if (age < 18) {
