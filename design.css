@@ -150,6 +150,7 @@ img{
   margin-right: auto;
   margin-bottom:0.5em;
   border-style:solid;
+  border-width:thin;
   border-color:white;
 }
 h2{
