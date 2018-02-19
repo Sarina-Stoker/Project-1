@@ -13,12 +13,12 @@ $(document).ready(function () {
         if(today.getMonth() < month){
           age--;     
         }
-        else if(today.getMonth()==month && today.getDay()/1<day){
+        else(today.getMonth()==month && today.getDay()/1<day){
           age--;     
         }
-        if (age < 18) {
+       /* if (age < 18) {
           alert("You have to be 18 or older to sign up. Sorry!");
-        }
+        } */
      
   });
     
@@ -26,8 +26,14 @@ $(document).ready(function () {
 
 $('#Contact').on('submit',
   function(e) {
+    
+    if(age < 18){
+          alert("You have to be 18 or older to sign up. Sorry!");
+        }
+    else{
     console.log('The form was submitted.');
      e.preventDefault();
+    }
     
   }
-  );
+ );
